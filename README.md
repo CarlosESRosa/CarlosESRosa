@@ -4,6 +4,7 @@
 - 📚 Estudante de Desenvolvimento Web na Trybe.
 - 💻 Futuro desenvolvedor Front-end júnior.
 - 🌱 Estudando sobre Front-end, Back-end e Soft skills. Atualmente estou focado em Front-end (React, Hooks, Redux, Context API).
+- Email: carlosrosa1001@gmail.com
 
 ##
 
@@ -23,7 +24,7 @@
 ##
 ### Formas de contato:
 <div> 
-  <a href = "mailto:carlosrosa1001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-soares-rosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
