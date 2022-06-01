@@ -3,7 +3,7 @@
 ### Sobre mim:
 - 📚 Estudante de Desenvolvimento Web na Trybe.
 - 💻 Futuro desenvolvedor Fullstack júnior.
-- 🌱 Terminei meus estudos sobre Front-end onde aprendi React.js e no momento estou estudando Back-end onde estou aprendendo Docker, Node.js entre outras ferramentas.
+- 🌱 Terminei meus estudos sobre Front-end onde aprendi principalmente React.js e no momento estou estudando Back-end onde estou aprendendo Docker, Node.js entre outras ferramentas.
 - Email: carlosrosa1001@gmail.com
 
 ##
