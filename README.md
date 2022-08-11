@@ -2,9 +2,10 @@
 
 ### Sobre mim:
 - 📚 Estudante de Desenvolvimento Web na Trybe.
-- 💻 Futuro desenvolvedor Front end.
-- 🌱 Terminei meus estudos sobre Front-end onde aprendi principalmente React.js e no momento estou estudando Back-end onde estou aprendendo Docker, Node.js entre outras ferramentas.
+- 💻 Desenvolvedor Front end com 1 ano de experiência como estudante.
+- 🌱 Desenvolvi uma série de sites utilizando principalmente React, Redux e Bootstrap (Você pode encontrá-los aqui) e no momento estou estudando Back-end onde estou aprendendo a desenvolver APIs Restful que se comunicam com banco de dados utilizando principalmente Node.js, MySQL ou MongoDB.
 - Email: carlosrosa1001@gmail.com
+- Portifólio: https://rosa-portifolio-1234.herokuapp.com/
 
 ##
 
