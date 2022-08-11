@@ -5,9 +5,7 @@
 - 💻 Desenvolvedor Front end com 1 ano de experiência como estudante.
 - 🌱 Desenvolvi uma série de sites utilizando principalmente React, Redux e Bootstrap (Você pode encontrá-los aqui) e no momento estou estudando Back-end onde estou aprendendo a desenvolver APIs Restful que se comunicam com banco de dados utilizando principalmente Node.js, MySQL ou MongoDB.
 
-- Email: carlosrosa1001@gmail.com
-- Portifólio: https://rosa-portifolio-1234.herokuapp.com/
-- linkedin: https://www.linkedin.com/in/carlos-eduardo-soares-rosa/
+
 
 ##
 
@@ -40,15 +38,6 @@
 
 ##
 ### Formas de contato:
-<div> 
-  <a href = "/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-soares-rosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-##
-
-<div align="center">  
-  <a href="https://github.com/CarlosESRosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosESRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosESRosa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+- Linkedin: https://www.linkedin.com/in/carlos-eduardo-soares-rosa/
+- Email: carlosrosa1001@gmail.com
+- Portifólio: https://rosa-portifolio-1234.herokuapp.com/
