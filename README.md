@@ -1,9 +1,9 @@
 #  Olá, eu sou o Carlos 👋
 
 ### Sobre mim:
-- 📚 Me formei em Desenvolvimento Web na Trybe.
+- 📚 Estudante de Desenvolvimento Web na Trybe.
 - 💻 Desenvolvedor Fullstack com 1 ano de experiência como estudante.
-- 🌱 Desenvolvi uma série de projetos Full stack utilizando principalmente React para o Frontend, Node ou Python para o Backend e MySQL, PostgreSQL e MongoDB como banco de dados (Você pode encontrá-los aqui).
+- 🌱 Desenvolvi uma série de sites utilizando principalmente React, Redux e Bootstrap (Você pode encontrá-los aqui) e no momento estou estudando Back-end onde estou aprendendo a desenvolver APIs Restful que se comunicam com banco de dados utilizando principalmente Node.js, MySQL ou MongoDB.
 
 
 
@@ -38,6 +38,6 @@
 
 ##
 ### Formas de contato:
-- Linkedin: https://www.linkedin.com/in/carlos-eduardo-soares-rosa/
+- Linkedin: https://www.linkedin.com/in/carlos-e-s-rosa/
 - Email: carlosrosa1001@gmail.com
 - Portifólio: https://portifolio-rosa.vercel.app/
