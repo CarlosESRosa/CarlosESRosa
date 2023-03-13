@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 - 📚 Formado em Desenvolvimento Web na Trybe.
-- 💻 Desenvolvedor Fullstack com 1 ano de experiência como estudante.
+- 💻 Estudante na UNIFEI.
 - 🌱 Desenvolvi uma série de sites utilizando principalmente React para o Frontend, Node ou Python para o backend e MySQL, PostgreSQL ou MongoDB como Banco de dados (Você pode encontralos aqui).
 
 
