@@ -2,8 +2,8 @@
 
 ### Sobre mim:
 - 📚 Formado em Desenvolvimento Web na Trybe.
-- 💻 Estudante na UNIFEI.
-- 🌱 Desenvolvi uma série de sites utilizando principalmente React para o Frontend, Node ou Python para o backend e MySQL, PostgreSQL ou MongoDB como Banco de dados (Você pode encontralos aqui).
+- 💻 Estudante de Analise e Desenvolvimento de Sistemas na FIAP.
+- 🌱 Desenvolvi uma série de sites utilizando principalmente React para o Frontend, Node, Python, Java para o backend e bancos de dados Relacionais ou Não relacionais (Você pode encontrar meus projetos aqui).
 
 
 
