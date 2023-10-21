@@ -40,4 +40,3 @@
 ### Formas de contato:
 - Linkedin: https://www.linkedin.com/in/carlos-e-s-rosa/
 - Email: carlosrosa1001@gmail.com
-- Portifólio: https://portifolio-rosa.vercel.app/
