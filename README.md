@@ -3,6 +3,7 @@
 ### Sobre mim:
 - 📚 Formado em Desenvolvimento Web na Trybe.
 - 💻 Estudante de Analise e Desenvolvimento de Sistemas na FIAP.
+- Trabalho como Desenvolvedor Full Stack na Solplace.
 - 🌱 Desenvolvi uma série de sites utilizando principalmente React para o Frontend, Node, Python para o backend e bancos de dados Relacionais ou Não relacionais (Você pode encontrar meus projetos aqui).
 
 
