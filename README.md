@@ -1,14 +1,14 @@
-#  Olá, eu sou o Carlos 👋
+#  Hello, I am Carlos👋
 
-### Sobre mim:
-- 📚 Formado em Desenvolvimento Web na Trybe.
-- 💻 Estudante de Analise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Trabalho como Desenvolvedor Full Stack na Solplace.
+### About me:
+- 📚 Graduated in Web Development at Trybe.
+- 💻 Studying Systems Analysis and Development at FIAP.
+- 💻 Working as a Full Stack Developer at Solplace.
 
 
 ##
 
-### Principais ferramentas Front-end:
+### Main Front-end Stacks:
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -21,7 +21,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-### Principais ferramentas Back-end:
+### Main Back-end Stacks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -36,6 +36,6 @@
 </div>
 
 ##
-### Formas de contato:
+### Contact information:
 - Linkedin: https://www.linkedin.com/in/carlos-e-s-rosa/
 - Email: carlosrosa1001@gmail.com
