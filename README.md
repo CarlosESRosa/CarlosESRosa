@@ -3,7 +3,6 @@
 ### About me:
 - 📚 Graduated in Web Development at Trybe.
 - 💻 Studying Systems Analysis and Development at FIAP.
-- 💻 Working as a Full Stack Developer at Solplace.
 
 
 ##
