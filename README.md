@@ -3,6 +3,7 @@
 ### About me:
 - 📚 Graduated in Web Development at Trybe.
 - 💻 Studying Systems Analysis and Development at FIAP.
+- 💻 Software engineer at Stanley's Hair
 
 
 ##
